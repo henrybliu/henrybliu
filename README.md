@@ -19,7 +19,7 @@ I'm a Computer Engineer at UC San Diego and am passionate about full-stack softw
 - I cut hair! Checkout my barber [Instagram](https://www.instagram.com/henrysbarbershop/)
 - I am an avid snowboarder
 - I love going to the gym
-- I like (try) to cook
+- I like (to try) to cook
 
 # 📫 Contact
 Feel free to reach out to me either by my email at 11.henrybliu@gmail.com or via [LinkedIn](https://www.linkedin.com/in/henrybliu/)! Talk soon!
