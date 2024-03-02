@@ -20,7 +20,7 @@ I'm a Computer Engineer at UC San Diego and am passionate about full-stack softw
 **Other Tools:** ```Git```, ```Perforce```, ```Jupyter Notebook```, ```Jenkins```, ```NumPy```, ```TensorFlow```
 
 # 🤩 Fun Facts
-- I cut hair! Checkout my barber [Instagram](https://www.instagram.com/henrysbarbershop/)
+- I cut hair! Checkout my barber [Instagram](https://www.instagram.com/henrysbarbershop/) or [website](https://henrysbarbershop.netlify.app/)
 - I am an avid snowboarder
 - I love going to the gym
 - I like (to try) to cook
