@@ -1,3 +1,5 @@
+![GIF](/henrybliu.gif)
+
 # Hey, I'm Henry! 👋
 
 I'm a Computer Engineer at UC San Diego and am passionate about full-stack software development!
