@@ -1,4 +1,6 @@
-![GIF](/henrybliu.gif)
+<p align="center">
+  <img src="/henrybliu.gif" alt="GIF" height="300">
+</p>
 
 # Hey, I'm Henry! 👋
 
