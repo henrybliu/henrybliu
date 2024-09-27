@@ -15,7 +15,7 @@ I'm a Computer Engineer at UC San Diego and am passionate about full-stack softw
 
 **Backend Development:** ```Node.js```, ```Express```, ```gRPC```, ```REST```, ```MongoDB```, ```PostgreSQL```, ```Firebase```, ```Flask```
 
-**DevOps:** ```AWS```, ```Azure```, ```Docker```, ```Netlify```, ```Render```
+**Infrastructure/DevOps:** ```AWS```, ```Azure```, ```Docker```, ```Netlify```, ```Render```
 
 **Other Tools:** ```Git```, ```Perforce```, ```Jupyter Notebook```, ```Jenkins```, ```NumPy```, ```TensorFlow```
 
