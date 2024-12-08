@@ -4,7 +4,7 @@
 
 # Hey, I'm Henry! 👋
 
-I'm a Computer Engineer at UC San Diego and am passionate about full-stack software development!
+I'm a Computer Engineer from UC San Diego and am passionate about full-stack software development!
 - Checkout my [personal website](https://abouthenryliu.com/) to learn more about me
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/henrybliu/)
 
